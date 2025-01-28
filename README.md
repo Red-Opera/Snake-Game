@@ -1,11 +1,11 @@
 # Snake Game
 C++로 제작한 Sokoban 퍼즐 게임
 
-### Window 11에서는 CMD 글자 비율이 달라지므로 권장하지 않음
+### ※ Window 11에서는 CMD 글자 비율이 달라지므로 권장하지 않음
 
 ## 게임 포트폴리오 영상
 
-<a href="https://youtu.be/QHLWlav-a8M">
+<a href="https://www.youtube.com/watch?v=r0vzduWWsDc">
     <img src="https://github.com/user-attachments/assets/37e63611-bfa4-424e-ac54-8586fbc93a4f" width="100%" height="100%"/>
 </a>
 이미지를 클릭하면 재생됩니다.
