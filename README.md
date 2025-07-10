@@ -6,7 +6,7 @@ C++로 제작한 Sokoban 퍼즐 게임
 ## 게임 포트폴리오 영상
 
 <a href="https://www.youtube.com/watch?v=r0vzduWWsDc">
-    <img src="https://github.com/user-attachments/assets/37e63611-bfa4-424e-ac54-8586fbc93a4f" width="100%" height="100%"/>
+    <img src="https://github.com/user-attachments/assets/37e63611-bfa4-424e-ac54-8586fbc93a4f" width="100%"/>
 </a>
 이미지를 클릭하면 재생됩니다.
 
